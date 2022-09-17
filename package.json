@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/LinHeMa/Personal-Project/issues"
   },
-  "homepage": "https://github.com/LinHeMa/Personal-Project#readme"
+  "homepage": "https://github.com/LinHeMa/Personal-Project#readme",
+  "dependencies": {
+    "global": "^4.4.0",
+    "tslint": "^6.1.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "@typescript-eslint/parser": "^5.37.0",
+    "eslint": "^8.23.1",
+    "typescript": "^4.8.3"
+  }
 }
